@@ -1,0 +1,30 @@
+.cabeca {
+    color: rgb(12, 12, 11);
+    text-align: center;
+    margin: 50px;
+    padding: 75px;
+    height: 100px;
+    width:  300px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 37%;
+    border-radius: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(168, 151, 167);
+}
+
+.tabuada {
+    text-align: center;
+    color:  rgb(12, 12, 11);
+    margin-left: 37%;
+    width: 200px;
+    height: 130px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    margin-left: 43%;
+    border-radius: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    font-size: large;  
+}
